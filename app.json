@@ -1,7 +1,7 @@
 {
   "expo": {
-    "name": "business-directory-app",
-    "slug": "business-directory-app",
+    "name": "business-directory",
+    "slug": "business-directory",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/images/icon.png",
